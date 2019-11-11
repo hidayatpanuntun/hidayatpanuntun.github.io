@@ -3,7 +3,7 @@ define({
     //default web map, default app color theme and more. These values can be overwritten by template configuration settings
     //and url parameters.
     "appid": "",
-    "webmap": "21633896293248b7a40d4e3126c93621",
+    "webmap": "c8058a58e91940a3a9f48caf80eda7d7",
     "oauthappid": null,
     //"AFTKRmv16wj14N3z",
     //Enter the url to the proxy if needed by the applcation. See the "Using the proxy page" help topic for details
@@ -156,7 +156,7 @@ define({
     //Enter the url to your organizations bing maps key if you want to use bing basemaps
     "bingmapskey": "",
     //Defaults to arcgis.com. Set this value to your portal or organization host name.
-    "sharinghost": "https://www.arcgis.com",
+    "sharinghost": "https://ugm-gis.maps.arcgis.com",
     "units": null,
     "helperServices": {
         "geometry": {
